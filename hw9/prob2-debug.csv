@@ -1,0 +1,27 @@
+"Question","Classification Policy"
+"Part","Clear Expectations
+Is it clear what students are expected to do in this part?","Consistent Notation
+Is the notation within the problem consistent?","Self-Contained
+Is the problem self-contained to the extent possible?","Hidden Tricks
+Does the problem have any hidden tricks needed to solve it?","Setup and Story
+Is the problem and problem part's description clear in giving the problem setup and how this part moves the larger story forward?","Solveable
+Is the problem part solveable with the tools and ideas that students have?","Solve Time
+How long does this part take to solve?","Datahub Runs
+If there is any coding required or jupyter required, does it run on datahub?","Code Prompts
+If there is coding needed, is it obvious what students need to do from comments, etc.?","Connection to ML
+(Once for the entire problem) Is it clear to students what the connection is between this problem and machine learning? If we asked students to make the connection, could they make it themselves?","Comments"
+"2a"
+"2b"
+
+"Solution"
+"Part","Complete Answer
+Does the solution completely answer the question that is asked in the problem?","Skipped Steps
+Is the solution complete without skipped steps?","No Leaps
+Is it clear from reading the solution how students could have come up with what needs to be done on their own?","Consistent Notation
+Does the solution follow the notation of the problem itself?","Supports Staff
+Does the solution help the course staff better support students taking the course?","Plots Labeled
+Are all the plots labeled clearly so that a confused student can tell which plot corresponds to what?","Plots Explained
+Does the solution explain what about plots or numerical values is salient to justify any inferences we are asking them to make from those plots or numerical values?","Minimum Contrast
+(Once for the entire problem) Does the problem and the solution follow scientific principles of minimum contrast: showing good 'apples to apples' comparisons?","Comments"
+"2a"
+"2b"
